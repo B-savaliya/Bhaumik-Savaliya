@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FFD2,100:00A3FF&height=190&section=header&text=Jenish%20Ghadiya&fontSize=70&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FFD2,100:00A3FF&height=190&section=header&text=Jenish%Savaliya&fontSize=70&fontColor=fff&animation=fadeIn)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFD2&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer+⚡;Building+Digital+Solutions+🚀" alt="Typing SVG" />
 
