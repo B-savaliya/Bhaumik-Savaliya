@@ -11,12 +11,12 @@
 ### 🎓 BCA Graduate | 💼 MERN Developer | 📍 Surat, Gujarat
 
 [![LuxeLiv.](https://img.shields.io/badge/LuxeLiv.-Real%20Estate-00FFD2?style=flat-square&logo=react)](https://luxe-liv.vercel.app/)
-[![classic motel](https://img.shields.io/badge/classic-Motel-00FFD2?style=flat-square&logo=react)](https://classic-motel-bice.vercel.app/)
+[![classic motel](https://img.shields.io/badge/classic%20Motel-Motel%20Business-00FFD2?style=flat-square&logo=react)](https://classic-motel-bice.vercel.app/)
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,redux,git,vscode&theme=dark&perline=5"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhaumik-savaliya&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&icon_color=00FFD2&title_color=00FFD2"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaumik-savaliya&theme=dark&background=0D1117&hide_border=true&ring=00FFD2&fire=00FFD2&currStreakLabel=00FFD2"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhaumiksavaliya&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&icon_color=00FFD2&title_color=00FFD2"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaumiksavaliya&theme=dark&background=0D1117&hide_border=true&ring=00FFD2&fire=00FFD2&currStreakLabel=00FFD2"/>
 
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaumik-savaliya&theme=dark&bg_color=0D1117&hide_border=true&layout=compact&title_color=00FFD2"/>
 
