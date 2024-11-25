@@ -18,7 +18,7 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhaumiksavaliya&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&icon_color=00FFD2&title_color=00FFD2"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaumiksavaliya&theme=dark&background=0D1117&hide_border=true&ring=00FFD2&fire=00FFD2&currStreakLabel=00FFD2"/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaumik-savaliya&theme=dark&bg_color=0D1117&hide_border=true&layout=compact&title_color=00FFD2"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaumiksavaliya&theme=dark&bg_color=0D1117&hide_border=true&layout=compact&title_color=00FFD2"/>
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
 
